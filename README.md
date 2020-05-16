@@ -3,9 +3,9 @@
 West-blowing trade winds in the Indian Ocean push warm surface waters against the eastern coast of Africa. These waters move south along the coastline, eventually spilling out along the boundary of the Indian and Atlantic Oceans. This jet of warm water, known as the Agulhas Current, collides with the cold, west to east flowing Antarctic Circumpolar Current, producing a dynamic series of meanders and eddies as the two waters mix. 
 
 ### Data description and avalibility
-The data SST.mat file contains sea surface temperature data collected by satellite for the Agulhas and surrounding areas off the coast of South Africa from January 1 to November 26, 2004, a period of 331 days. The data contains a lot of missing values which caused by land, satellite’s orbital clipping and cloud cover.
+The data data_SST.mat file contains sea surface temperature data collected by satellite for the Agulhas and surrounding areas off the coast of South Africa from January 1 to November 26, 2004, a period of 331 days. The data contains a lot of missing values which caused by land, satellite’s orbital clipping and cloud cover.
 
-The raw data SST.mat is available for download via GitHub [https://github.com/yansongruc/Sea_Surface_Temperature/Data].
+The data data_SST.mat is available for download via GitHub [https://github.com/yansongruc/Sea_Surface_Temperature/Data].
 
 ## Project 
 In this project, we aim to fill in the missing values present in Day 10 data by Gaussian geostatistical model. Due to computational limitation, we consider to replace the full data with subsamples. The project is organized as follows:

@@ -1,0 +1,12 @@
+name: subsamples
+title: subsamples
+username:
+account: yansongruc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2275389
+bundleId: 3135022
+url: https://yansongruc.shinyapps.io/subsamples/
+when: 1589260674.00248
+asMultiple: FALSE
+asStatic: FALSE
